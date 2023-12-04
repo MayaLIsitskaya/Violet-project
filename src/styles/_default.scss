@@ -23,3 +23,11 @@ body {
   width: 100%;
 }
 
+.lists {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  padding: $p-2;
+}
+
