@@ -154,6 +154,10 @@ body {
   padding: 2rem;
 }
 
+.pt-2 {
+  padding-top: 2rem;
+}
+
 .title {
   transition: all 0.3s;
   padding: 2rem;
@@ -233,8 +237,8 @@ body {
 .swiper-scrollbar {
   bottom: 0;
 }
-.swiper-drag {
-  background-color: #ce3192;
+.swiper-scrollbar-drag {
+  background: #ce3192;
 }
 
 .navbar {

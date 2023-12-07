@@ -4,9 +4,9 @@
 
   &-scrollbar {
     bottom: 0;
-  }
 
-  &-drag {
-    background-color: $color-violet;
+    &-drag {
+      background: $color-violet;
+    }
   }
 }
